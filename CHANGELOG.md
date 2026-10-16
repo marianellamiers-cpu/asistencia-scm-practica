@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.0.0] - 2026-09-17
+### Changed
+- **BREAKING:** `registrar_asistencia` ahora recibe un diccionario con `dni` y `materia` en lugar de un string.
+
 ## [1.1.0] - 2026-09-03
 ### Added
 - Acumulador y contador global de asistencias en tiempo de ejecucion.
